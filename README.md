@@ -1,1 +1,2 @@
 # wizard
+wizards are blue
